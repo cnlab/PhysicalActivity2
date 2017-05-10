@@ -4,6 +4,8 @@
 
 <a name="citation"/>Kang, Y., Pandey, P., Cooper, N., Scholz, C., O'Donnell, M. B., Elliott, A. M., Pegors, T. K., Lieberman, M. D., Taylor, S. E., Strecher, V. J., Dal Cin, S., Konrath, S., Polk, T., Resnicow, K., An, L., & Falk, E. B (2017, to be presented in May). Increasing Receptivity to Health Communications: Effects of Self-Transcendence and Affirmation Priming on Neural Responses to Health Messages and Behavior Change, Paper to be presented at the meeting of the International Communication Association, San Diego, California. 
 
+-------------------------------------------------------
+
 ## Task Description
 1. There were 3 types of health messages with the total number of 30. In addition, 3 types of control messages with the total number of 30 were included. Please see the stimuli document for a complete list of messages. Each of the how, why, risk message pair was matched by a theme (e.g., aging, cancer, diabetes)
 
