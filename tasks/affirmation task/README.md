@@ -3,7 +3,13 @@
 **Cited Papers as of April 24th 2016**:
 Kang, Y., Pandey, P., Cooper, N., Scholz, C., O'Donnell, M. B., Elliott, A. M., Pegors, T. K., Lieberman, M. D., Taylor, S. E., Strecher, V. J., Dal Cin, S., Konrath, S., Polk, T., Resnicow, K., An, L., & Falk, E. B (2017, to be presented in May). Increasing Receptivity to Health Communications: Effects of Self-Transcendence and Affirmation Priming on Neural Responses to Health Messages and Behavior Change, Paper to be presented at the meeting of the International Communication Association, San Diego, California. 
 
-======
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
 ## Task Description
 1. At baseline, participants were given a list of 6 values and asked to rank them in the order of importance.
