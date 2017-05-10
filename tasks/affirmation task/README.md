@@ -1,19 +1,28 @@
 # Affirmation task
 
 **Cited Papers as of April 24th 2016**:
-Kang, Y., Pandey, P., Cooper, N., Scholz, C., O'Donnell, M. B., Elliott, A. M., Pegors, T. K., Lieberman, M. D., Taylor, S. E., Strecher, V. J., Dal Cin, S., Konrath, S., Polk, T., Resnicow, K., An, L., & Falk, E. B (2017, to be presented in May). Increasing Receptivity to Health Communications: Effects of Self-Transcendence and Affirmation Priming on Neural Responses to Health Messages and Behavior Change, Paper to be presented at the meeting of the International Communication Association, San Diego, California. 
+
+<a name="citation"/>Kang, Y., Pandey, P., Cooper, N., Scholz, C., O'Donnell, M. B., Elliott, A. M., Pegors, T. K., Lieberman, M. D., Taylor, S. E., Strecher, V. J., Dal Cin, S., Konrath, S., Polk, T., Resnicow, K., An, L., & Falk, E. B (2017, to be presented in May). Increasing Receptivity to Health Communications: Effects of Self-Transcendence and Affirmation Priming on Neural Responses to Health Messages and Behavior Change, Paper to be presented at the meeting of the International Communication Association, San Diego, California. 
 
 ## Task Description
-1. At baseline, participants were given a list of 6 values and asked to rank them in the order of importance.
+1. At baseline, participants were given a list of 6 [values](#values) and asked to rank them in the order of importance.
     1. Compassion and kindness	
     2. Family and friends
     3. Spirituality
     4. Power and status
     5. Wealth
     6. Fame
-2. Before the scanner task, participants were guided through the demo. Those in the [affirmation condition](#affirmation-condition) reflected on their top value, and those in the control condition reflected on their bottom value.
+2. Before the scanner task, participants were guided through the demo. Those in the [affirmation condition](#affirmation-condition) reflected on their top value, and those in the [control condition](#control-condition) reflected on their bottom value.
+3. Scanner task description
+    1. Participants in the self-affirmation and control conditions were guided through either a self-affirmation or control task ([Falk et al., 2015](#citation)) to either reflect on their highest (affirmation condition) or lowest (control condition) ranked values at baseline.  Those in the self-affirmation condition were provided with an opportunity to think about highest value situations in the future as vividly as they could (e.g., if family and friends were their highest value, one prompt might ask to imagine a situation when they would: “Have fun with family and friends”).  The goal was to allow them to express and connect with their highest ranked value.  As a within-subjects comparison to facilitate fMRI analysis, they were also asked to imagine value-neutral everyday activities (e.g., imagine a situation when they would: “Check the weather to see the forecast”).  Participants in the control condition were presented with a series of lowest value situations pertaining to their lowest ranked value as well as the within-subjects everyday activities (identical to the ones presented in the self-affirmation condition). 
+    2. Forty situations (20 value, 20 everyday activity) were presented across two runs (20 in each run) in a randomized order.  Each block consisted of an initial screen showing the block type (value/everyday activity; 2s), followed by the situation description (10s) and importance rating (4s; “Indicate how important each statement is to you, 1=not very important-4=very important”).  Blocks were separated by fixation rest periods (3s); every fifth block contained a longer (10s) block of rest.
+    3. For the full list of health messages, see “affirmation_stimuli.csv”
 
-Value and value phrases for the script below:
+----------------------------------------------------------------------------
+
+
+**Value and value phrases for the script below:**
+<a name="values"/>
 
 | Value cond.        | Value           | Value phrase  |
 | ------------------ |:---------------:| -------------:|
@@ -160,7 +169,4 @@ Make sure they explained the situation and how important.
 
 ``“Also in this task, the fixation screen may be sometimes longer. If you see a long fixation screen, simply relax and rest for about 10 seconds.”``
 
-3. Scanner task description
-    1. Participants in the self-affirmation and control conditions were guided through either a self-affirmation or control task (Falk et al., 2015) to either reflect on their highest (affirmation condition) or lowest (control condition) ranked values at baseline.  Those in the self-affirmation condition were provided with an opportunity to think about highest value situations in the future as vividly as they could (e.g., if family and friends were their highest value, one prompt might ask to imagine a situation when they would: “Have fun with family and friends”).  The goal was to allow them to express and connect with their highest ranked value.  As a within-subjects comparison to facilitate fMRI analysis, they were also asked to imagine value-neutral everyday activities (e.g., imagine a situation when they would: “Check the weather to see the forecast”).  Participants in the control condition were presented with a series of lowest value situations pertaining to their lowest ranked value as well as the within-subjects everyday activities (identical to the ones presented in the self-affirmation condition). 
-    2. Forty situations (20 value, 20 everyday activity) were presented across two runs (20 in each run) in a randomized order.  Each block consisted of an initial screen showing the block type (value/everyday activity; 2s), followed by the situation description (10s) and importance rating (4s; “Indicate how important each statement is to you, 1=not very important-4=very important”).  Blocks were separated by fixation rest periods (3s); every fifth block contained a longer (10s) block of rest.
-    3. For the full list of health messages, see “affirmation_stimuli.csv”
+
