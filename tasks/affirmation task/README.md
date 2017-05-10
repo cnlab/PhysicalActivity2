@@ -4,7 +4,8 @@
 
 <a name="citation"/>Kang, Y., Pandey, P., Cooper, N., Scholz, C., O'Donnell, M. B., Elliott, A. M., Pegors, T. K., Lieberman, M. D., Taylor, S. E., Strecher, V. J., Dal Cin, S., Konrath, S., Polk, T., Resnicow, K., An, L., & Falk, E. B (2017, to be presented in May). Increasing Receptivity to Health Communications: Effects of Self-Transcendence and Affirmation Priming on Neural Responses to Health Messages and Behavior Change, Paper to be presented at the meeting of the International Communication Association, San Diego, California. 
 
-## Task Description
+## Scanner Task
+### Task Description
 1. At baseline, participants were given a list of 6 [values](#values) and asked to rank them in the order of importance.
     1. Compassion and kindness	
     2. Family and friends
@@ -33,7 +34,9 @@
 | 5   | Wealth                  | Making money and possessing wealth |
 | 6   | Fame                    | Becoming famous and popular |
 
-## Affirmation condition
+----------------------------------------------------------------------------
+
+### Affirmation condition
 
 ``“The next task is called “Future Task.” In this task you will think about either [VALUE] or everyday activities. Earlier, you said this is an important value for you. Correct?”``
 
@@ -101,7 +104,9 @@ Make sure they explained the situation and how important.
 
 ``“Also in this task, the fixation screen may be sometimes longer. If you see a long fixation screen, simply relax and rest for about 10 seconds.”``
 
-## Control condition
+----------------------------------------------------------------------------
+
+### Control condition
 
 ``“The next task is called “Future Task.” In this task you will think about either [VALUE] or everyday activities. Earlier, you said this is NOT an important value for you. Correct?”``
 
@@ -169,4 +174,66 @@ Make sure they explained the situation and how important.
 
 ``“Also in this task, the fixation screen may be sometimes longer. If you see a long fixation screen, simply relax and rest for about 10 seconds.”``
 
+----------------------------------------------------------------------------
 
+## Affirmation Writing Task
+
+1. **Compassion and Kindness**
+Please think about why ***becoming compassionate and kind to others*** may or may not be important and meaningful to you.
+    - Think about what kind of things you can do to expresses the value of compassion and kindness. 
+    - Try and visualize yourself in this situation, and think of specific details.  
+    - Think about how these activities may reflect compassion and kindness values.
+    
+**For the next 5 minutes,**
+
+**please write about this experience incorporating as many details as you can, and reasons why this experience may or may not be important and meaningful to you.**
+
+2. **Family and friends instruction**
+Please think about why ***having good relationships with family and friends*** may or may not be important and meaningful to you.
+    - Think about an experience you might have when you'll do something that expresses the value of ***family and friends***. 
+    - Try and visualize yourself in this situation, and think of specific details.  
+    - Think about how these activities may reflect ***family and friends*** values..
+    
+**For the next 5 minutes,**
+
+**please write about this experience incorporating as many details as you can, and reasons why this experience may or may not be important and meaningful to you.**
+
+3. **Spirituality instruction**
+Please think about why ***developing spiritual connection to the world*** may or may not be important and meaningful to you.
+    - Think about an experience you might have when you'll do something that expresses the value of ***spirituality***. 
+    - Try and visualize yourself in this situation, and think of specific details.
+    - Think about how these activities may reflect ***spirituality*** values..
+    
+**For the next 5 minutes,**
+
+**please write about this experience incorporating as many details as you can, and reasons why this experience may or may not be important and meaningful to you.**
+
+4. **Power and status instruction**
+Please think about why ***gaining power and social status*** may or may not be important and meaningful to you.
+    - Think about what kind of things you can do to expresses the value of ***power and status***.  
+    - Try and visualize yourself in this situation, and think of specific details.
+    - Think about how these activities may reflect ***power and status*** values..
+    
+**For the next 5 minutes,**
+
+**please write about this experience incorporating as many details as you can, and reasons why this experience may or may not be important and meaningful to you.**
+
+5. **Wealth instruction**
+Please think about why ***making money and possessing wealth*** may or may not be important and meaningful to you.
+    - Think about what kind of things you can do to expresses the value of ***wealth***.  
+    - Try and visualize yourself in this situation, and think of specific details.
+    - Think about how these activities may reflect ***wealth*** values..
+    
+**For the next 5 minutes,**
+
+**please write about this experience incorporating as many details as you can, and reasons why this experience may or may not be important and meaningful to you.**
+
+6. **Fame instruction**
+Please think about why ***becoming famous and popular*** may or may not be important and meaningful to you.
+    - Think about what kind of things you can do to expresses the value of ***fame***.  
+    - Try and visualize yourself in this situation, and think of specific details.
+    - Think about how these activities may reflect ***fame*** values..
+    
+**For the next 5 minutes,**
+
+**please write about this experience incorporating as many details as you can, and reasons why this experience may or may not be important and meaningful to you.**
