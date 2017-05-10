@@ -7,15 +7,19 @@
 ## Task Description
 1. There were 3 types of health messages with the total number of 30. In addition, 3 types of control messages with the total number of 30 were included. Please see the stimuli document for a complete list of messages. Each of the how, why, risk message pair was matched by a theme (e.g., aging, cancer, diabetes)
 
-10 activity_how: how one could be more active and less sedentary
-10 activity_why: why one should be more active and less sedentary
-10 activity_risk: messages highlighting the risk of being sedentary and not active
+    10 activity_how: how one could be more active and less sedentary
+    
+    10 activity_why: why one should be more active and less sedentary
+    
+    10 activity_risk: messages highlighting the risk of being sedentary and not active
 
-plus
+    plus
 
-10 control_how: how one could do other daily activities unrelated to physical activity
-10 control_why: why one should do other daily activities unrelated to physical activity
-10 control_risk: messages highlighting the risk of doing or not doing other daily activities unrelated to physical activity 
+    10 control_how: how one could do other daily activities unrelated to physical activity
+
+    10 control_why: why one should do other daily activities unrelated to physical activity
+
+    10 control_risk: messages highlighting the risk of doing or not doing other daily activities unrelated to physical activity 
 
 2. In the Messages Task, all participants received 30 health messages and 30 control messages across two runs in even proportions in a randomized order. 
 
@@ -28,4 +32,4 @@ plus
 
 5. The risk messages were presented on a single screen for 10 seconds with accompanying audio. 
 
-6. For the full list of health messages, see “stimuli.csv”
+6. For the full list of health messages, see [stimuli.csv](https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/health%20message%20task/stimuli.csv)
