@@ -1,4 +1,4 @@
-# Transcendence/Compassion Scanner Task
+# Compassion Scanner Task
 
 **Cited Papers as of April 24th 2016**:
 
@@ -14,10 +14,10 @@
 1. Before the scanner task, participants were guided through the [demo](#demo). 
 
 2. Scanner task description
-    1. A scanner-adapted self-transcendence task was designed based on theories of lovingkindness meditation that uses directed well-wishing techniques (Kang et al., 2014).  
+    1. A scanner-adapted compassion task was designed based on theories of lovingkindness meditation that uses directed well-wishing techniques (Kang et al., 2014).  
     2. Participants were provided with an opportunity to make positive wishes for three target groups, including close others, acquaintances, and everyone in the world, and as vividly as they could, imagine situations in which these wishes come true in the future.
-    3. Forty wish blocks (20 transcendence wishes, 20 control wishes) were presented across two runs (20 wishes in each run) in a randomized order. Each wish block consisted of an initial wish phrase (2s; “May you be well”), followed by the target group to direct positive wishes to (10s; “Everyone in the world”) and importance rating (4s).  Control wishes focused on everyday activities to allow comparisons of neural activity during transcendent vs. non-transcendent processing, using the same everyday activities that formed the within-subjects control trials for the affirmation and control groups (e.g., “May it be done easily: Heating up food in microwave”).  Blocks were separated by fixation rest periods (3s); every fifth block contained a longer (10s) block of rest.  
-    4. For the full list of stimuli, see [transcendence_compassion_stimuli.csv](https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/transcendence%20task/transcedence_compassion_stimuli.csv)
+    3. Forty wish blocks (20 compassion wishes, 20 control wishes) were presented across two runs (20 wishes in each run) in a randomized order. Each wish block consisted of an initial wish phrase (2s; “May you be well”), followed by the target group to direct positive wishes to (10s; “Everyone in the world”) and importance rating (4s).  Control wishes focused on everyday activities to allow comparisons of neural activity during transcendent vs. non-transcendent processing, using the same everyday activities that formed the within-subjects control trials for the affirmation and control groups (e.g., “May it be done easily: Heating up food in microwave”).  Blocks were separated by fixation rest periods (3s); every fifth block contained a longer (10s) block of rest.  
+    4. For the full list of stimuli, see [compassion_stimuli.csv](https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/compassion%20task/compassion_stimuli.csv)
 
 ----------------------------------------------------------------------------
 
@@ -42,13 +42,13 @@ In your visit last week in one of the surveys, you indicated people that are clo
 
 (compassion example screen: wish phrase)
 
-<img src="https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/compassion_transcendence%20task/imgs/1.jpg" width=300>
+<img src="https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/compassion%20task/imgs/1.jpg" width=300>
 
 `` “When you see a wish phrase, silently repeat the phrase in your mind.”``
 
 (control example screen: target person)
 
-<img src="https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/compassion_transcendence%20task/imgs/2.jpg" width=300>
+<img src="https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/compassion%20task/imgs/2.jpg" width=300>
 
 ``“You will then see the person to whom you will direct these wishes. Your task is to think of situations in the future when this wish might be fulfilled. Try and REALLY visualize the person in this experience and think of specific details. Keep repeating the wish phrase in your mind as you do this.” ``
 
@@ -58,7 +58,7 @@ In your visit last week in one of the surveys, you indicated people that are clo
 
 (compassion example screen: rating)
 
-<img src="https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/compassion_transcendence%20task/imgs/3.jpg" width=300>
+<img src="https://github.com/prateekshitcnlab/PhysicalActivity2/blob/master/tasks/compassion%20task/imgs/3.jpg" width=300>
 
 ``“Great, next you will be asked to indicate how important it is for you to have this wish fulfilled. 
 To be clear, we are not asking whether these people are important to you. We are asking whether these wishes being fulfilled is important to you. Please respond by using your button box. Can you tell me how important it is on the scale of 1-4?”``
